@@ -1,0 +1,7601 @@
+[{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a727"
+  },
+  "stockName": "3A",
+  "stockId": "0012",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a728"
+  },
+  "stockName": "AASIA",
+  "stockId": "7054",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a729"
+  },
+  "stockName": "AAX",
+  "stockId": "5238",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a72a"
+  },
+  "stockName": "ABLEGRP",
+  "stockId": "7086",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a72b"
+  },
+  "stockName": "ABMB",
+  "stockId": "2488",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a72c"
+  },
+  "stockName": "ACEINNO",
+  "stockId": "03028",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a72d"
+  },
+  "stockName": "ACME",
+  "stockId": "7131",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a72e"
+  },
+  "stockName": "ACOSTEC",
+  "stockId": "7120",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a72f"
+  },
+  "stockName": "ADVCON",
+  "stockId": "5281",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a730"
+  },
+  "stockName": "ADVENTA",
+  "stockId": "7191",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a731"
+  },
+  "stockName": "ADVPKG",
+  "stockId": "9148",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a732"
+  },
+  "stockName": "AEM",
+  "stockId": "7146",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a733"
+  },
+  "stockName": "AEMULUS",
+  "stockId": "0181",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a734"
+  },
+  "stockName": "AEON",
+  "stockId": "6599",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a735"
+  },
+  "stockName": "AEONCR",
+  "stockId": "5139",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a736"
+  },
+  "stockName": "AFFIN",
+  "stockId": "5185",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a737"
+  },
+  "stockName": "AFUJIYA",
+  "stockId": "5198",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a738"
+  },
+  "stockName": "AGES",
+  "stockId": "7145",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a739"
+  },
+  "stockName": "AHB",
+  "stockId": "7315",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a73a"
+  },
+  "stockName": "AHEALTH",
+  "stockId": "7090",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a73b"
+  },
+  "stockName": "AHP",
+  "stockId": "4952",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a73c"
+  },
+  "stockName": "AIM",
+  "stockId": "0122",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a73d"
+  },
+  "stockName": "AIRASIA",
+  "stockId": "5099",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a73e"
+  },
+  "stockName": "AIRPORT",
+  "stockId": "5014",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a73f"
+  },
+  "stockName": "AISB",
+  "stockId": "2682",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a740"
+  },
+  "stockName": "AJI",
+  "stockId": "2658",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a741"
+  },
+  "stockName": "AJIYA",
+  "stockId": "7609",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a742"
+  },
+  "stockName": "ALAM",
+  "stockId": "5115",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a743"
+  },
+  "stockName": "ALAQAR",
+  "stockId": "5116",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a744"
+  },
+  "stockName": "ALCOM",
+  "stockId": "2674",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a745"
+  },
+  "stockName": "ALLIANZ",
+  "stockId": "1163",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a746"
+  },
+  "stockName": "ALSREIT",
+  "stockId": "5269",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a747"
+  },
+  "stockName": "AMBANK",
+  "stockId": "1015",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a748"
+  },
+  "stockName": "AME",
+  "stockId": "5293",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a749"
+  },
+  "stockName": "AMEDIA",
+  "stockId": "0159",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a74a"
+  },
+  "stockName": "AMFIRST",
+  "stockId": "5120",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a74b"
+  },
+  "stockName": "AMLEX",
+  "stockId": "03011",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a74c"
+  },
+  "stockName": "AMPROP",
+  "stockId": "1007",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a74d"
+  },
+  "stockName": "AMTEL",
+  "stockId": "7031",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a74e"
+  },
+  "stockName": "AMVERTON",
+  "stockId": "5959",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a74f"
+  },
+  "stockName": "AMWAY",
+  "stockId": "6351",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a750"
+  },
+  "stockName": "ANALABS",
+  "stockId": "7083",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a751"
+  },
+  "stockName": "ANCOM",
+  "stockId": "4758",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a752"
+  },
+  "stockName": "ANCOMLB",
+  "stockId": "0048",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a753"
+  },
+  "stockName": "ANNJOO",
+  "stockId": "6556",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a754"
+  },
+  "stockName": "ANZO",
+  "stockId": "9342",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a755"
+  },
+  "stockName": "APB",
+  "stockId": "5568",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a756"
+  },
+  "stockName": "APEX",
+  "stockId": "5088",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a757"
+  },
+  "stockName": "APFT",
+  "stockId": "5194",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a758"
+  },
+  "stockName": "APM",
+  "stockId": "5015",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a759"
+  },
+  "stockName": "APOLLO",
+  "stockId": "6432",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a75a"
+  },
+  "stockName": "APPASIA",
+  "stockId": "0119",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a75b"
+  },
+  "stockName": "ARANK",
+  "stockId": "7214",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a75c"
+  },
+  "stockName": "ARBB",
+  "stockId": "7181",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a75d"
+  },
+  "stockName": "ARK",
+  "stockId": "7007",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a75e"
+  },
+  "stockName": "ARMADA",
+  "stockId": "5210",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a75f"
+  },
+  "stockName": "ARREIT",
+  "stockId": "5127",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a760"
+  },
+  "stockName": "ASB",
+  "stockId": "1481",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a761"
+  },
+  "stockName": "ASDION",
+  "stockId": "0068",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a762"
+  },
+  "stockName": "ASIABRN",
+  "stockId": "7722",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a763"
+  },
+  "stockName": "ASIAFLE",
+  "stockId": "7129",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a764"
+  },
+  "stockName": "ASIAPAC",
+  "stockId": "4057",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a765"
+  },
+  "stockName": "ASIAPLY",
+  "stockId": "0105",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a766"
+  },
+  "stockName": "ASTINO",
+  "stockId": "7162",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a767"
+  },
+  "stockName": "ASTRA",
+  "stockId": "03032",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a768"
+  },
+  "stockName": "ASTRO",
+  "stockId": "6399",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a769"
+  },
+  "stockName": "AT",
+  "stockId": "0072",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a76a"
+  },
+  "stockName": "ATAIMS",
+  "stockId": "8176",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a76b"
+  },
+  "stockName": "ATLAN",
+  "stockId": "7048",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a76c"
+  },
+  "stockName": "ATRIUM",
+  "stockId": "5130",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a76d"
+  },
+  "stockName": "ATTA",
+  "stockId": "7099",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a76e"
+  },
+  "stockName": "AVI",
+  "stockId": "8885",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a76f"
+  },
+  "stockName": "AWC",
+  "stockId": "7579",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a770"
+  },
+  "stockName": "AXIATA",
+  "stockId": "6888",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a771"
+  },
+  "stockName": "AXREIT",
+  "stockId": "5106",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a772"
+  },
+  "stockName": "AYER",
+  "stockId": "2305",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a773"
+  },
+  "stockName": "AYS",
+  "stockId": "5021",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a774"
+  },
+  "stockName": "AZRB",
+  "stockId": "7078",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a775"
+  },
+  "stockName": "BABA",
+  "stockId": "03012",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a776"
+  },
+  "stockName": "BAHVEST",
+  "stockId": "0098",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a777"
+  },
+  "stockName": "BARAKAH",
+  "stockId": "7251",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a778"
+  },
+  "stockName": "BAT",
+  "stockId": "4162",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a779"
+  },
+  "stockName": "BAUTO",
+  "stockId": "5248",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a77a"
+  },
+  "stockName": "BCB",
+  "stockId": "6602",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a77b"
+  },
+  "stockName": "BCMALL",
+  "stockId": "0187",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a77c"
+  },
+  "stockName": "BDB",
+  "stockId": "6173",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a77d"
+  },
+  "stockName": "BENALEC",
+  "stockId": "5190",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a77e"
+  },
+  "stockName": "BERTAM",
+  "stockId": "9814",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a77f"
+  },
+  "stockName": "BHIC",
+  "stockId": "8133",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a780"
+  },
+  "stockName": "BIG",
+  "stockId": "7005",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a781"
+  },
+  "stockName": "BIMB",
+  "stockId": "5258",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd5af2085236481a782"
+  },
+  "stockName": "BINACOM",
+  "stockId": "0195",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a783"
+  },
+  "stockName": "BINTAI",
+  "stockId": "6998",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a784"
+  },
+  "stockName": "BIOHLDG",
+  "stockId": "0179",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a785"
+  },
+  "stockName": "BIPORT",
+  "stockId": "5032",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a786"
+  },
+  "stockName": "BJASSET",
+  "stockId": "3239",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a787"
+  },
+  "stockName": "BJCORP",
+  "stockId": "3395",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a788"
+  },
+  "stockName": "BJFOOD",
+  "stockId": "5196",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a789"
+  },
+  "stockName": "BJLAND",
+  "stockId": "4219",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a78a"
+  },
+  "stockName": "BJMEDIA",
+  "stockId": "6025",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a78b"
+  },
+  "stockName": "BJTOTO",
+  "stockId": "1562",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a78c"
+  },
+  "stockName": "BKAWAN",
+  "stockId": "1899",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a78d"
+  },
+  "stockName": "BLDPLNT",
+  "stockId": "5069",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a78e"
+  },
+  "stockName": "BOILERM",
+  "stockId": "0168",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a78f"
+  },
+  "stockName": "BONIA",
+  "stockId": "9288",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a790"
+  },
+  "stockName": "BORNOIL",
+  "stockId": "7036",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a791"
+  },
+  "stockName": "BOXPAK",
+  "stockId": "6297",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a792"
+  },
+  "stockName": "BPLANT",
+  "stockId": "5254",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a793"
+  },
+  "stockName": "BPPLAS",
+  "stockId": "5100",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a794"
+  },
+  "stockName": "BPURI",
+  "stockId": "5932",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a795"
+  },
+  "stockName": "BRAHIMS",
+  "stockId": "9474",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a796"
+  },
+  "stockName": "BREM",
+  "stockId": "8761",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a797"
+  },
+  "stockName": "BRIGHT",
+  "stockId": "9938",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a798"
+  },
+  "stockName": "BSLCORP",
+  "stockId": "7221",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a799"
+  },
+  "stockName": "BSTEAD",
+  "stockId": "2771",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a79a"
+  },
+  "stockName": "BTECH",
+  "stockId": "0011",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a79b"
+  },
+  "stockName": "BTM",
+  "stockId": "7188",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a79c"
+  },
+  "stockName": "BURSA",
+  "stockId": "1818",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a79d"
+  },
+  "stockName": "CAB",
+  "stockId": "7174",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a79e"
+  },
+  "stockName": "CABNET",
+  "stockId": "0191",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a79f"
+  },
+  "stockName": "CAELY",
+  "stockId": "7154",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7a0"
+  },
+  "stockName": "CAMRES",
+  "stockId": "7128",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7a1"
+  },
+  "stockName": "CANONE",
+  "stockId": "5105",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7a2"
+  },
+  "stockName": "CAP",
+  "stockId": "5229",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7a3"
+  },
+  "stockName": "CAREPLS",
+  "stockId": "0163",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7a4"
+  },
+  "stockName": "CARIMIN",
+  "stockId": "5257",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7a5"
+  },
+  "stockName": "CARING",
+  "stockId": "5245",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7a6"
+  },
+  "stockName": "CARLSBG",
+  "stockId": "2836",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7a7"
+  },
+  "stockName": "CBIP",
+  "stockId": "7076",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7a8"
+  },
+  "stockName": "CCB",
+  "stockId": "2925",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7a9"
+  },
+  "stockName": "CCK",
+  "stockId": "7035",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7aa"
+  },
+  "stockName": "CCM",
+  "stockId": "2879",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ab"
+  },
+  "stockName": "CENSOF",
+  "stockId": "5195",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ac"
+  },
+  "stockName": "CEPAT",
+  "stockId": "8982",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ad"
+  },
+  "stockName": "CEPCO",
+  "stockId": "8435",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ae"
+  },
+  "stockName": "CETECH",
+  "stockId": "03024",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7af"
+  },
+  "stockName": "CFM",
+  "stockId": "8044",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7b0"
+  },
+  "stockName": "CGB",
+  "stockId": "8052",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7b1"
+  },
+  "stockName": "CHEETAH",
+  "stockId": "7209",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7b2"
+  },
+  "stockName": "CHGP",
+  "stockId": "7187",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7b3"
+  },
+  "stockName": "CHHB",
+  "stockId": "5738",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7b4"
+  },
+  "stockName": "CHINHIN",
+  "stockId": "5273",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7b5"
+  },
+  "stockName": "CHINTEK",
+  "stockId": "1929",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7b6"
+  },
+  "stockName": "CHINWEL",
+  "stockId": "5007",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7b7"
+  },
+  "stockName": "CHOOBEE",
+  "stockId": "5797",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7b8"
+  },
+  "stockName": "CHUAN",
+  "stockId": "7016",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7b9"
+  },
+  "stockName": "CIHLDG",
+  "stockId": "2828",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ba"
+  },
+  "stockName": "CIMB",
+  "stockId": "1023",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7bb"
+  },
+  "stockName": "CJCEN",
+  "stockId": "7117",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7bc"
+  },
+  "stockName": "CLOUD",
+  "stockId": "03001",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7bd"
+  },
+  "stockName": "CME",
+  "stockId": "7018",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7be"
+  },
+  "stockName": "CMMT",
+  "stockId": "5180",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7bf"
+  },
+  "stockName": "CMSB",
+  "stockId": "2852",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7c0"
+  },
+  "stockName": "CNASIA",
+  "stockId": "7986",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7c1"
+  },
+  "stockName": "CNI",
+  "stockId": "5104",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7c2"
+  },
+  "stockName": "CNOUHUA",
+  "stockId": "5188",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7c3"
+  },
+  "stockName": "COASTAL",
+  "stockId": "5071",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7c4"
+  },
+  "stockName": "COCOLND",
+  "stockId": "7205",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7c5"
+  },
+  "stockName": "COMCORP",
+  "stockId": "7195",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7c6"
+  },
+  "stockName": "COMFORT",
+  "stockId": "2127",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7c7"
+  },
+  "stockName": "COMPLET",
+  "stockId": "5136",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7c8"
+  },
+  "stockName": "COMPUGT",
+  "stockId": "5037",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7c9"
+  },
+  "stockName": "CONNECT",
+  "stockId": "0102",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ca"
+  },
+  "stockName": "CRESBLD",
+  "stockId": "8591",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7cb"
+  },
+  "stockName": "CRESNDO",
+  "stockId": "6718",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7cc"
+  },
+  "stockName": "CRG",
+  "stockId": "03016",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7cd"
+  },
+  "stockName": "CSCENIC",
+  "stockId": "7202",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ce"
+  },
+  "stockName": "CSCSTEL",
+  "stockId": "5094",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7cf"
+  },
+  "stockName": "CUSCAPI",
+  "stockId": "0051",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7d0"
+  },
+  "stockName": "CVIEW",
+  "stockId": "5049",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7d1"
+  },
+  "stockName": "CWG",
+  "stockId": "9423",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7d2"
+  },
+  "stockName": "CYL",
+  "stockId": "7157",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7d3"
+  },
+  "stockName": "CYMAO",
+  "stockId": "5082",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7d4"
+  },
+  "stockName": "CYPARK",
+  "stockId": "5184",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7d5"
+  },
+  "stockName": "D&O",
+  "stockId": "7204",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7d6"
+  },
+  "stockName": "DAIBOCI",
+  "stockId": "8125",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7d7"
+  },
+  "stockName": "DANCO",
+  "stockId": "5276",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7d8"
+  },
+  "stockName": "DATAPRP",
+  "stockId": "8338",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7d9"
+  },
+  "stockName": "DAYA",
+  "stockId": "0091",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7da"
+  },
+  "stockName": "DAYANG",
+  "stockId": "5141",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7db"
+  },
+  "stockName": "DBE",
+  "stockId": "7179",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7dc"
+  },
+  "stockName": "DBHD",
+  "stockId": "3484",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7dd"
+  },
+  "stockName": "DEGEM",
+  "stockId": "7119",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7de"
+  },
+  "stockName": "DELEUM",
+  "stockId": "5132",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7df"
+  },
+  "stockName": "DESTINI",
+  "stockId": "7212",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7e0"
+  },
+  "stockName": "DGB",
+  "stockId": "0152",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7e1"
+  },
+  "stockName": "DGSB",
+  "stockId": "0131",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7e2"
+  },
+  "stockName": "DIALOG",
+  "stockId": "7277",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7e3"
+  },
+  "stockName": "DIGI",
+  "stockId": "6947",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7e4"
+  },
+  "stockName": "DIGISTA",
+  "stockId": "0029",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7e5"
+  },
+  "stockName": "DKLS",
+  "stockId": "7528",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7e6"
+  },
+  "stockName": "DKSH",
+  "stockId": "5908",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7e7"
+  },
+  "stockName": "DLADY",
+  "stockId": "3026",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7e8"
+  },
+  "stockName": "DNEX",
+  "stockId": "4456",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7e9"
+  },
+  "stockName": "DNONCE",
+  "stockId": "7114",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ea"
+  },
+  "stockName": "DOLMITE",
+  "stockId": "5835",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7eb"
+  },
+  "stockName": "DOLPHIN",
+  "stockId": "5265",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ec"
+  },
+  "stockName": "DOMINAN",
+  "stockId": "7169",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ed"
+  },
+  "stockName": "DPHARMA",
+  "stockId": "7148",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ee"
+  },
+  "stockName": "DPIH",
+  "stockId": "0205",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ef"
+  },
+  "stockName": "DPS",
+  "stockId": "7198",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7f0"
+  },
+  "stockName": "DRBHCOM",
+  "stockId": "1619",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7f1"
+  },
+  "stockName": "DSONIC",
+  "stockId": "5216",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7f2"
+  },
+  "stockName": "DUFU",
+  "stockId": "7233",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7f3"
+  },
+  "stockName": "DUTALND",
+  "stockId": "3948",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7f4"
+  },
+  "stockName": "DWL",
+  "stockId": "7165",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7f5"
+  },
+  "stockName": "DYNACIA",
+  "stockId": "5178",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7f6"
+  },
+  "stockName": "E&O",
+  "stockId": "3417",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7f7"
+  },
+  "stockName": "EAH",
+  "stockId": "0154",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7f8"
+  },
+  "stockName": "EASTLND",
+  "stockId": "2097",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7f9"
+  },
+  "stockName": "EATECH",
+  "stockId": "5259",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7fa"
+  },
+  "stockName": "ECM",
+  "stockId": "2143",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7fb"
+  },
+  "stockName": "ECOFIRS",
+  "stockId": "3557",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7fc"
+  },
+  "stockName": "ECOHLDS",
+  "stockId": "0059",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7fd"
+  },
+  "stockName": "ECONBHD",
+  "stockId": "5253",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7fe"
+  },
+  "stockName": "ECOWLD",
+  "stockId": "8206",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a7ff"
+  },
+  "stockName": "EDARAN",
+  "stockId": "5036",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a800"
+  },
+  "stockName": "EDEN",
+  "stockId": "7471",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a801"
+  },
+  "stockName": "EDGENTA",
+  "stockId": "1368",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a802"
+  },
+  "stockName": "EDUSPEC",
+  "stockId": "0107",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a803"
+  },
+  "stockName": "EFFICEN",
+  "stockId": "0064",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a804"
+  },
+  "stockName": "EFORCE",
+  "stockId": "0065",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a805"
+  },
+  "stockName": "EG",
+  "stockId": "8907",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a806"
+  },
+  "stockName": "EIG",
+  "stockId": "5081",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a807"
+  },
+  "stockName": "EITA",
+  "stockId": "5208",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a808"
+  },
+  "stockName": "EKA",
+  "stockId": "7182",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a809"
+  },
+  "stockName": "EKOVEST",
+  "stockId": "8877",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a80a"
+  },
+  "stockName": "EKSONS",
+  "stockId": "9016",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a80b"
+  },
+  "stockName": "ELKDESA",
+  "stockId": "5228",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a80c"
+  },
+  "stockName": "ELSOFT",
+  "stockId": "0090",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a80d"
+  },
+  "stockName": "EMETALL",
+  "stockId": "7217",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a80e"
+  },
+  "stockName": "EMICO",
+  "stockId": "9091",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a80f"
+  },
+  "stockName": "ENCORP",
+  "stockId": "6076",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a810"
+  },
+  "stockName": "ENEST",
+  "stockId": "03025",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a811"
+  },
+  "stockName": "ENGKAH",
+  "stockId": "7149",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a812"
+  },
+  "stockName": "ENGTEX",
+  "stockId": "5056",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a813"
+  },
+  "stockName": "ENRA",
+  "stockId": "8613",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a814"
+  },
+  "stockName": "EPMB",
+  "stockId": "7773",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a815"
+  },
+  "stockName": "ESAFE",
+  "stockId": "0190",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a816"
+  },
+  "stockName": "ESCERAM",
+  "stockId": "0100",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a817"
+  },
+  "stockName": "ETH",
+  "stockId": "03021",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a818"
+  },
+  "stockName": "EUPE",
+  "stockId": "6815",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a819"
+  },
+  "stockName": "EURO",
+  "stockId": "7208",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a81a"
+  },
+  "stockName": "EUROSP",
+  "stockId": "7094",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a81b"
+  },
+  "stockName": "EVERGRN",
+  "stockId": "5101",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a81c"
+  },
+  "stockName": "EWEIN",
+  "stockId": "7249",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a81d"
+  },
+  "stockName": "EWINT",
+  "stockId": "5283",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a81e"
+  },
+  "stockName": "F&N",
+  "stockId": "3689",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a81f"
+  },
+  "stockName": "FACBIND",
+  "stockId": "2984",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a820"
+  },
+  "stockName": "FAJAR",
+  "stockId": "7047",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a821"
+  },
+  "stockName": "FAREAST",
+  "stockId": "5029",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a822"
+  },
+  "stockName": "FARLIM",
+  "stockId": "6041",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a823"
+  },
+  "stockName": "FAVCO",
+  "stockId": "7229",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a824"
+  },
+  "stockName": "FBBHD",
+  "stockId": "03026",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a825"
+  },
+  "stockName": "FCW",
+  "stockId": "2755",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a826"
+  },
+  "stockName": "FGV",
+  "stockId": "5222",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a827"
+  },
+  "stockName": "FIAMMA",
+  "stockId": "6939",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a828"
+  },
+  "stockName": "FIBON",
+  "stockId": "0149",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a829"
+  },
+  "stockName": "FIHB",
+  "stockId": "8605",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a82a"
+  },
+  "stockName": "FIMACOR",
+  "stockId": "3107",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a82b"
+  },
+  "stockName": "FINTEC",
+  "stockId": "0150",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a82c"
+  },
+  "stockName": "FITTERS",
+  "stockId": "9318",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a82d"
+  },
+  "stockName": "FLBHD",
+  "stockId": "5197",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a82e"
+  },
+  "stockName": "FOCUS",
+  "stockId": "0116",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a82f"
+  },
+  "stockName": "FOCUSP",
+  "stockId": "0157",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a830"
+  },
+  "stockName": "FPGROUP",
+  "stockId": "5277",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a831"
+  },
+  "stockName": "FPI",
+  "stockId": "9172",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a832"
+  },
+  "stockName": "FREIGHT",
+  "stockId": "7210",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a833"
+  },
+  "stockName": "FRONTKN",
+  "stockId": "0128",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a834"
+  },
+  "stockName": "FSBM",
+  "stockId": "9377",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a835"
+  },
+  "stockName": "G3",
+  "stockId": "7184",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a836"
+  },
+  "stockName": "GADANG",
+  "stockId": "9261",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a837"
+  },
+  "stockName": "GAMUDA",
+  "stockId": "5398",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a838"
+  },
+  "stockName": "GASMSIA",
+  "stockId": "5209",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a839"
+  },
+  "stockName": "GBGAQRS",
+  "stockId": "5226",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a83a"
+  },
+  "stockName": "GCB",
+  "stockId": "5102",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a83b"
+  },
+  "stockName": "GCE",
+  "stockId": "5592",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a83c"
+  },
+  "stockName": "GDB",
+  "stockId": "0198",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a83d"
+  },
+  "stockName": "GDEX",
+  "stockId": "0078",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a83e"
+  },
+  "stockName": "GENETEC",
+  "stockId": "0104",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a83f"
+  },
+  "stockName": "GENM",
+  "stockId": "4715",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a840"
+  },
+  "stockName": "GENP",
+  "stockId": "2291",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a841"
+  },
+  "stockName": "GENTING",
+  "stockId": "3182",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a842"
+  },
+  "stockName": "GESHEN",
+  "stockId": "7197",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a843"
+  },
+  "stockName": "GETS",
+  "stockId": "5079",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a844"
+  },
+  "stockName": "GFM",
+  "stockId": "0039",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a845"
+  },
+  "stockName": "GHLSYS",
+  "stockId": "0021",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a846"
+  },
+  "stockName": "GKENT",
+  "stockId": "3204",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a847"
+  },
+  "stockName": "GLBHD",
+  "stockId": "7382",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a848"
+  },
+  "stockName": "GLOMAC",
+  "stockId": "5020",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a849"
+  },
+  "stockName": "GLOTEC",
+  "stockId": "5220",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a84a"
+  },
+  "stockName": "GMUTUAL",
+  "stockId": "9962",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a84b"
+  },
+  "stockName": "GNB",
+  "stockId": "0045",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a84c"
+  },
+  "stockName": "GOB",
+  "stockId": "1147",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a84d"
+  },
+  "stockName": "GOCEAN",
+  "stockId": "0074",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a84e"
+  },
+  "stockName": "GOODWAY",
+  "stockId": "7192",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a84f"
+  },
+  "stockName": "GOPENG",
+  "stockId": "2135",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a850"
+  },
+  "stockName": "GPA",
+  "stockId": "7096",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a851"
+  },
+  "stockName": "GPACKET",
+  "stockId": "0082",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a852"
+  },
+  "stockName": "GPHAROS",
+  "stockId": "5649",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a853"
+  },
+  "stockName": "GPP",
+  "stockId": "03029",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a854"
+  },
+  "stockName": "GRANFLO",
+  "stockId": "0056",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a855"
+  },
+  "stockName": "GREATEC",
+  "stockId": "0208",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a856"
+  },
+  "stockName": "GREENYB",
+  "stockId": "0136",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a857"
+  },
+  "stockName": "GTRONIC",
+  "stockId": "7022",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a858"
+  },
+  "stockName": "GUH",
+  "stockId": "3247",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a859"
+  },
+  "stockName": "GUNUNG",
+  "stockId": "7676",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a85a"
+  },
+  "stockName": "GUOCO",
+  "stockId": "1503",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a85b"
+  },
+  "stockName": "HAIO",
+  "stockId": "7668",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a85c"
+  },
+  "stockName": "HANDAL",
+  "stockId": "7253",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a85d"
+  },
+  "stockName": "HAPSENG",
+  "stockId": "3034",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a85e"
+  },
+  "stockName": "HARBOUR",
+  "stockId": "2062",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a85f"
+  },
+  "stockName": "HARISON",
+  "stockId": "5008",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a860"
+  },
+  "stockName": "HARNLEN",
+  "stockId": "7501",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a861"
+  },
+  "stockName": "HARTA",
+  "stockId": "5168",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a862"
+  },
+  "stockName": "HBGLOB",
+  "stockId": "5187",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a863"
+  },
+  "stockName": "HCK",
+  "stockId": "7105",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a864"
+  },
+  "stockName": "HEIM",
+  "stockId": "3255",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a865"
+  },
+  "stockName": "HEKTAR",
+  "stockId": "5121",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a866"
+  },
+  "stockName": "HENGYUAN",
+  "stockId": "4324",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a867"
+  },
+  "stockName": "HEVEA",
+  "stockId": "5095",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a868"
+  },
+  "stockName": "HEXTAR",
+  "stockId": "5151",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a869"
+  },
+  "stockName": "HEXZA",
+  "stockId": "3298",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a86a"
+  },
+  "stockName": "HHGROUP",
+  "stockId": "0175",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a86b"
+  },
+  "stockName": "HHHCORP",
+  "stockId": "0160",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a86c"
+  },
+  "stockName": "HIAPTEK",
+  "stockId": "5072",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a86d"
+  },
+  "stockName": "HIBISCS",
+  "stockId": "5199",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a86e"
+  },
+  "stockName": "HIGHTEC",
+  "stockId": "7033",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a86f"
+  },
+  "stockName": "HIL",
+  "stockId": "8443",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a870"
+  },
+  "stockName": "HLBANK",
+  "stockId": "5819",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a871"
+  },
+  "stockName": "HLCAP",
+  "stockId": "5274",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a872"
+  },
+  "stockName": "HLFG",
+  "stockId": "1082",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a873"
+  },
+  "stockName": "HLIND",
+  "stockId": "3301",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a874"
+  },
+  "stockName": "HLT",
+  "stockId": "0188",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a875"
+  },
+  "stockName": "HOHUP",
+  "stockId": "5169",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a876"
+  },
+  "stockName": "HOKHENG",
+  "stockId": "5165",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a877"
+  },
+  "stockName": "HOMERIZ",
+  "stockId": "5160",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a878"
+  },
+  "stockName": "HOOVER",
+  "stockId": "7010",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a879"
+  },
+  "stockName": "HPMT",
+  "stockId": "5291",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a87a"
+  },
+  "stockName": "HSL",
+  "stockId": "6238",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a87b"
+  },
+  "stockName": "HSPLANT",
+  "stockId": "5138",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a87c"
+  },
+  "stockName": "HSSEB",
+  "stockId": "0185",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a87d"
+  },
+  "stockName": "HTPADU",
+  "stockId": "5028",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a87e"
+  },
+  "stockName": "HUAAN",
+  "stockId": "2739",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a87f"
+  },
+  "stockName": "HUAYANG",
+  "stockId": "5062",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a880"
+  },
+  "stockName": "HUBLINE",
+  "stockId": "7013",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a881"
+  },
+  "stockName": "HUMEIND",
+  "stockId": "5000",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a882"
+  },
+  "stockName": "HUPSENG",
+  "stockId": "5024",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a883"
+  },
+  "stockName": "HWATAI",
+  "stockId": "8478",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd6af2085236481a884"
+  },
+  "stockName": "HWGB",
+  "stockId": "9601",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a885"
+  },
+  "stockName": "IBHD",
+  "stockId": "4251",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a886"
+  },
+  "stockName": "IBRACO",
+  "stockId": "5084",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a887"
+  },
+  "stockName": "ICAP",
+  "stockId": "5108",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a888"
+  },
+  "stockName": "ICON",
+  "stockId": "5255",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a889"
+  },
+  "stockName": "ICONIC",
+  "stockId": "9113",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a88a"
+  },
+  "stockName": "IDBTECH",
+  "stockId": "03030",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a88b"
+  },
+  "stockName": "IDEAL",
+  "stockId": "9687",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a88c"
+  },
+  "stockName": "IDMENSN",
+  "stockId": "0174",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a88d"
+  },
+  "stockName": "IFCAMSC",
+  "stockId": "0023",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a88e"
+  },
+  "stockName": "IGBB",
+  "stockId": "5606",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a88f"
+  },
+  "stockName": "IGBREIT",
+  "stockId": "5227",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a890"
+  },
+  "stockName": "IHH",
+  "stockId": "5225",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a891"
+  },
+  "stockName": "IJM",
+  "stockId": "3336",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a892"
+  },
+  "stockName": "IJMPLNT",
+  "stockId": "2216",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a893"
+  },
+  "stockName": "IKHMAS",
+  "stockId": "5268",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a894"
+  },
+  "stockName": "ILB",
+  "stockId": "5614",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a895"
+  },
+  "stockName": "IMASPRO",
+  "stockId": "7222",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a896"
+  },
+  "stockName": "IMPIANA",
+  "stockId": "7243",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a897"
+  },
+  "stockName": "INARI",
+  "stockId": "0166",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a898"
+  },
+  "stockName": "INCKEN",
+  "stockId": "2607",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a899"
+  },
+  "stockName": "INIX",
+  "stockId": "0094",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a89a"
+  },
+  "stockName": "INNATURE",
+  "stockId": "5295",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a89b"
+  },
+  "stockName": "INNITY",
+  "stockId": "0147",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a89c"
+  },
+  "stockName": "INNO",
+  "stockId": "6262",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a89d"
+  },
+  "stockName": "INSAS",
+  "stockId": "3379",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a89e"
+  },
+  "stockName": "INTA",
+  "stockId": "0192",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a89f"
+  },
+  "stockName": "IOICORP",
+  "stockId": "1961",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8a0"
+  },
+  "stockName": "IOIPG",
+  "stockId": "5249",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8a1"
+  },
+  "stockName": "IPMUDA",
+  "stockId": "5673",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8a2"
+  },
+  "stockName": "IQGROUP",
+  "stockId": "5107",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8a3"
+  },
+  "stockName": "IQZAN",
+  "stockId": "7183",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8a4"
+  },
+  "stockName": "IREKA",
+  "stockId": "8834",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8a5"
+  },
+  "stockName": "IRIS",
+  "stockId": "0010",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8a6"
+  },
+  "stockName": "ISTONE",
+  "stockId": "0209",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8a7"
+  },
+  "stockName": "ITRONIC",
+  "stockId": "9393",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8a8"
+  },
+  "stockName": "IVORY",
+  "stockId": "5175",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8a9"
+  },
+  "stockName": "IWCITY",
+  "stockId": "1589",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8aa"
+  },
+  "stockName": "JADEM",
+  "stockId": "7043",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ab"
+  },
+  "stockName": "JADI",
+  "stockId": "7223",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ac"
+  },
+  "stockName": "JAG",
+  "stockId": "0024",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ad"
+  },
+  "stockName": "JAKS",
+  "stockId": "4723",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ae"
+  },
+  "stockName": "JASKITA",
+  "stockId": "8648",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8af"
+  },
+  "stockName": "JAYCORP",
+  "stockId": "7152",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8b0"
+  },
+  "stockName": "JCBNEXT",
+  "stockId": "0058",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8b1"
+  },
+  "stockName": "JCY",
+  "stockId": "5161",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8b2"
+  },
+  "stockName": "JERASIA",
+  "stockId": "8931",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8b3"
+  },
+  "stockName": "JETSON",
+  "stockId": "9083",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8b4"
+  },
+  "stockName": "JFTECH",
+  "stockId": "0146",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8b5"
+  },
+  "stockName": "JHM",
+  "stockId": "0127",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8b6"
+  },
+  "stockName": "JIANKUN",
+  "stockId": "8923",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8b7"
+  },
+  "stockName": "JKGLAND",
+  "stockId": "6769",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8b8"
+  },
+  "stockName": "JMEDU",
+  "stockId": "03003",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8b9"
+  },
+  "stockName": "JOHAN",
+  "stockId": "3441",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ba"
+  },
+  "stockName": "JOHOTIN",
+  "stockId": "7167",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8bb"
+  },
+  "stockName": "JTIASA",
+  "stockId": "4383",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8bc"
+  },
+  "stockName": "K1",
+  "stockId": "0111",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8bd"
+  },
+  "stockName": "KAB",
+  "stockId": "0193",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8be"
+  },
+  "stockName": "KAMDAR",
+  "stockId": "8672",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8bf"
+  },
+  "stockName": "KANGER",
+  "stockId": "0170",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8c0"
+  },
+  "stockName": "KAREX",
+  "stockId": "5247",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8c1"
+  },
+  "stockName": "KARYON",
+  "stockId": "0054",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8c2"
+  },
+  "stockName": "KAWAN",
+  "stockId": "7216",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8c3"
+  },
+  "stockName": "KEINHIN",
+  "stockId": "7199",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8c4"
+  },
+  "stockName": "KEN",
+  "stockId": "7323",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8c5"
+  },
+  "stockName": "KENANGA",
+  "stockId": "6483",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8c6"
+  },
+  "stockName": "KERJAYA",
+  "stockId": "7161",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8c7"
+  },
+  "stockName": "KESM",
+  "stockId": "9334",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8c8"
+  },
+  "stockName": "KEYASIC",
+  "stockId": "0143",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8c9"
+  },
+  "stockName": "KFIMA",
+  "stockId": "6491",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ca"
+  },
+  "stockName": "KGB",
+  "stockId": "0151",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8cb"
+  },
+  "stockName": "KGROUP",
+  "stockId": "0036",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8cc"
+  },
+  "stockName": "KHEESAN",
+  "stockId": "6203",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8cd"
+  },
+  "stockName": "KHIND",
+  "stockId": "7062",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ce"
+  },
+  "stockName": "KHJB",
+  "stockId": "0210",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8cf"
+  },
+  "stockName": "KIALIM",
+  "stockId": "6211",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8d0"
+  },
+  "stockName": "KIMHIN",
+  "stockId": "5371",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8d1"
+  },
+  "stockName": "KIMLUN",
+  "stockId": "5171",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8d2"
+  },
+  "stockName": "KINSTEL",
+  "stockId": "5060",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8d3"
+  },
+  "stockName": "KIPREIT",
+  "stockId": "5280",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8d4"
+  },
+  "stockName": "KKB",
+  "stockId": "9466",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8d5"
+  },
+  "stockName": "KLCC",
+  "stockId": "5235ss",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8d6"
+  },
+  "stockName": "KLK",
+  "stockId": "2445",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8d7"
+  },
+  "stockName": "KLUANG",
+  "stockId": "2453",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8d8"
+  },
+  "stockName": "KMLOONG",
+  "stockId": "5027",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8d9"
+  },
+  "stockName": "KNM",
+  "stockId": "7164",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8da"
+  },
+  "stockName": "KNUSFOR",
+  "stockId": "5035",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8db"
+  },
+  "stockName": "KOBAY",
+  "stockId": "6971",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8dc"
+  },
+  "stockName": "KOMARK",
+  "stockId": "7017",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8dd"
+  },
+  "stockName": "KOSSAN",
+  "stockId": "7153",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8de"
+  },
+  "stockName": "KOTRA",
+  "stockId": "0002",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8df"
+  },
+  "stockName": "KPJ",
+  "stockId": "5878",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8e0"
+  },
+  "stockName": "KPOWER",
+  "stockId": "7130",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8e1"
+  },
+  "stockName": "KPPROP",
+  "stockId": "7077",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8e2"
+  },
+  "stockName": "KPS",
+  "stockId": "5843",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8e3"
+  },
+  "stockName": "KPSCB",
+  "stockId": "9121",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8e4"
+  },
+  "stockName": "KRETAM",
+  "stockId": "1996",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8e5"
+  },
+  "stockName": "KRONO",
+  "stockId": "0176",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8e6"
+  },
+  "stockName": "KSENG",
+  "stockId": "3476",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8e7"
+  },
+  "stockName": "KSL",
+  "stockId": "5038",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8e8"
+  },
+  "stockName": "KSSC",
+  "stockId": "5192",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8e9"
+  },
+  "stockName": "KSTAR",
+  "stockId": "5172",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ea"
+  },
+  "stockName": "KTB",
+  "stockId": "4847",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8eb"
+  },
+  "stockName": "KTC",
+  "stockId": "0180",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ec"
+  },
+  "stockName": "KUB",
+  "stockId": "6874",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ed"
+  },
+  "stockName": "KUCHAI",
+  "stockId": "2186",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ee"
+  },
+  "stockName": "KWANTAS",
+  "stockId": "6572",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ef"
+  },
+  "stockName": "KYM",
+  "stockId": "8362",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8f0"
+  },
+  "stockName": "L&G",
+  "stockId": "3174",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8f1"
+  },
+  "stockName": "LAMBO",
+  "stockId": "0018",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8f2"
+  },
+  "stockName": "LANDMRK",
+  "stockId": "1643",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8f3"
+  },
+  "stockName": "LATITUD",
+  "stockId": "7006",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8f4"
+  },
+  "stockName": "LAYHONG",
+  "stockId": "9385",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8f5"
+  },
+  "stockName": "LBALUM",
+  "stockId": "9326",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8f6"
+  },
+  "stockName": "LBICAP",
+  "stockId": "8494",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8f7"
+  },
+  "stockName": "LBS",
+  "stockId": "5789",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8f8"
+  },
+  "stockName": "LCTITAN",
+  "stockId": "5284",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8f9"
+  },
+  "stockName": "LEBTECH",
+  "stockId": "9628",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8fa"
+  },
+  "stockName": "LEESK",
+  "stockId": "8079",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8fb"
+  },
+  "stockName": "LEONFB",
+  "stockId": "5232",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8fc"
+  },
+  "stockName": "LEWEKO",
+  "stockId": "8745",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8fd"
+  },
+  "stockName": "LFECORP",
+  "stockId": "7170",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8fe"
+  },
+  "stockName": "LHI",
+  "stockId": "6633",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a8ff"
+  },
+  "stockName": "LIENHOE",
+  "stockId": "3573",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a900"
+  },
+  "stockName": "LIIHEN",
+  "stockId": "7089",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a901"
+  },
+  "stockName": "LIONIND",
+  "stockId": "4235",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a902"
+  },
+  "stockName": "LIONPSIM",
+  "stockId": "8486",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a903"
+  },
+  "stockName": "LITRAK",
+  "stockId": "6645",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a904"
+  },
+  "stockName": "LKL",
+  "stockId": "0182",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a905"
+  },
+  "stockName": "LONBISC",
+  "stockId": "7126",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a906"
+  },
+  "stockName": "LOTUS",
+  "stockId": "8303",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a907"
+  },
+  "stockName": "LPI",
+  "stockId": "8621",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a908"
+  },
+  "stockName": "LSTEEL",
+  "stockId": "9881",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a909"
+  },
+  "stockName": "LTKM",
+  "stockId": "7085",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a90a"
+  },
+  "stockName": "LUSTER",
+  "stockId": "5068",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a90b"
+  },
+  "stockName": "LUXCHEM",
+  "stockId": "5143",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a90c"
+  },
+  "stockName": "LYC",
+  "stockId": "0075",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a90d"
+  },
+  "stockName": "LYSAGHT",
+  "stockId": "9199",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a90e"
+  },
+  "stockName": "M&G",
+  "stockId": "5078",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a90f"
+  },
+  "stockName": "M3TECH",
+  "stockId": "0017",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a910"
+  },
+  "stockName": "MAA",
+  "stockId": "1198",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a911"
+  },
+  "stockName": "MACPIE",
+  "stockId": "0140",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a912"
+  },
+  "stockName": "MAGNA",
+  "stockId": "7617",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a913"
+  },
+  "stockName": "MAGNI",
+  "stockId": "7087",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a914"
+  },
+  "stockName": "MAGNUM",
+  "stockId": "3859",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a915"
+  },
+  "stockName": "MAHSING",
+  "stockId": "8583",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a916"
+  },
+  "stockName": "MALAKOF",
+  "stockId": "5264",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a917"
+  },
+  "stockName": "MALPAC",
+  "stockId": "4936",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a918"
+  },
+  "stockName": "MALTON",
+  "stockId": "6181",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a919"
+  },
+  "stockName": "MANULFE",
+  "stockId": "1058",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a91a"
+  },
+  "stockName": "MARCO",
+  "stockId": "3514",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a91b"
+  },
+  "stockName": "MASTEEL",
+  "stockId": "5098",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a91c"
+  },
+  "stockName": "MASTER",
+  "stockId": "7029",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a91d"
+  },
+  "stockName": "MATANG",
+  "stockId": "0189",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a91e"
+  },
+  "stockName": "MATRIX",
+  "stockId": "5236",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a91f"
+  },
+  "stockName": "MAXIS",
+  "stockId": "6012",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a920"
+  },
+  "stockName": "MAYBANK",
+  "stockId": "1155",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a921"
+  },
+  "stockName": "MAYBULK",
+  "stockId": "5077",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a922"
+  },
+  "stockName": "MBG",
+  "stockId": "5886",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a923"
+  },
+  "stockName": "MBL",
+  "stockId": "5152",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a924"
+  },
+  "stockName": "MBMR",
+  "stockId": "5983",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a925"
+  },
+  "stockName": "MBSB",
+  "stockId": "1171",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a926"
+  },
+  "stockName": "MBWORLD",
+  "stockId": "7189",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a927"
+  },
+  "stockName": "MCEHLDG",
+  "stockId": "7004",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a928"
+  },
+  "stockName": "MCEMENT",
+  "stockId": "3794",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a929"
+  },
+  "stockName": "MCLEAN",
+  "stockId": "0167",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a92a"
+  },
+  "stockName": "MCOM",
+  "stockId": "03022",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a92b"
+  },
+  "stockName": "MCT",
+  "stockId": "5182",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a92c"
+  },
+  "stockName": "MEDIA",
+  "stockId": "4502",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a92d"
+  },
+  "stockName": "MEDIAC",
+  "stockId": "5090",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a92e"
+  },
+  "stockName": "MEGASUN",
+  "stockId": "0081",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a92f"
+  },
+  "stockName": "MELATI",
+  "stockId": "5129",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a930"
+  },
+  "stockName": "MELEWAR",
+  "stockId": "3778",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a931"
+  },
+  "stockName": "MENANG",
+  "stockId": "1694",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a932"
+  },
+  "stockName": "MENTIGA",
+  "stockId": "5223",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a933"
+  },
+  "stockName": "MERCURY",
+  "stockId": "8192",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a934"
+  },
+  "stockName": "MERIDIAN",
+  "stockId": "5040",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a935"
+  },
+  "stockName": "MESB",
+  "stockId": "7234",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a936"
+  },
+  "stockName": "MESTRON",
+  "stockId": "0207",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a937"
+  },
+  "stockName": "METROD",
+  "stockId": "6149",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a938"
+  },
+  "stockName": "MFCB",
+  "stockId": "3069",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a939"
+  },
+  "stockName": "MFGROUP",
+  "stockId": "03015",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a93a"
+  },
+  "stockName": "MFLOUR",
+  "stockId": "3662",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a93b"
+  },
+  "stockName": "MGB",
+  "stockId": "7595",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a93c"
+  },
+  "stockName": "MGRC",
+  "stockId": "0155",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a93d"
+  },
+  "stockName": "MHB",
+  "stockId": "5186",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a93e"
+  },
+  "stockName": "MHC",
+  "stockId": "5026",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a93f"
+  },
+  "stockName": "MHCARE",
+  "stockId": "03005",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a940"
+  },
+  "stockName": "MI",
+  "stockId": "5286",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a941"
+  },
+  "stockName": "MICROLN",
+  "stockId": "0126",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a942"
+  },
+  "stockName": "MIECO",
+  "stockId": "5001",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a943"
+  },
+  "stockName": "MIKROMB",
+  "stockId": "0112",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a944"
+  },
+  "stockName": "MILUX",
+  "stockId": "7935",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a945"
+  },
+  "stockName": "MINDA",
+  "stockId": "5166",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a946"
+  },
+  "stockName": "MINETEC",
+  "stockId": "7219",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a947"
+  },
+  "stockName": "MINHO",
+  "stockId": "5576",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a948"
+  },
+  "stockName": "MISC",
+  "stockId": "3816",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a949"
+  },
+  "stockName": "MITRA",
+  "stockId": "9571",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a94a"
+  },
+  "stockName": "MJPERAK",
+  "stockId": "8141",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a94b"
+  },
+  "stockName": "MKH",
+  "stockId": "6114",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a94c"
+  },
+  "stockName": "MKLAND",
+  "stockId": "8893",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a94d"
+  },
+  "stockName": "MLAB",
+  "stockId": "0085",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a94e"
+  },
+  "stockName": "MMAG",
+  "stockId": "0034",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a94f"
+  },
+  "stockName": "MMCCORP",
+  "stockId": "2194",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a950"
+  },
+  "stockName": "MMIS",
+  "stockId": "03027",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a951"
+  },
+  "stockName": "MMSV",
+  "stockId": "0113",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a952"
+  },
+  "stockName": "MNC",
+  "stockId": "0103",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a953"
+  },
+  "stockName": "MNRB",
+  "stockId": "6459",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a954"
+  },
+  "stockName": "MPAY",
+  "stockId": "0156",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a955"
+  },
+  "stockName": "MPCORP",
+  "stockId": "6548",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a956"
+  },
+  "stockName": "MPHBCAP",
+  "stockId": "5237",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a957"
+  },
+  "stockName": "MPI",
+  "stockId": "3867",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a958"
+  },
+  "stockName": "MPSOL",
+  "stockId": "03019",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a959"
+  },
+  "stockName": "MQREIT",
+  "stockId": "5123",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a95a"
+  },
+  "stockName": "MQTECH",
+  "stockId": "0070",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a95b"
+  },
+  "stockName": "MRCB",
+  "stockId": "1651",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a95c"
+  },
+  "stockName": "MSC",
+  "stockId": "5916",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a95d"
+  },
+  "stockName": "MSM",
+  "stockId": "5202",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a95e"
+  },
+  "stockName": "MSNIAGA",
+  "stockId": "5011",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a95f"
+  },
+  "stockName": "MSPORTS",
+  "stockId": "5150",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a960"
+  },
+  "stockName": "MTAG",
+  "stockId": "0213",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a961"
+  },
+  "stockName": "MTDACPI",
+  "stockId": "5924",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a962"
+  },
+  "stockName": "MTOUCHE",
+  "stockId": "0092",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a963"
+  },
+  "stockName": "MTRONIC",
+  "stockId": "0043",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a964"
+  },
+  "stockName": "MUDA",
+  "stockId": "3883",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a965"
+  },
+  "stockName": "MUDAJYA",
+  "stockId": "5085",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a966"
+  },
+  "stockName": "MUH",
+  "stockId": "9539",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a967"
+  },
+  "stockName": "MUHIBAH",
+  "stockId": "5703",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a968"
+  },
+  "stockName": "MUIIND",
+  "stockId": "3891",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a969"
+  },
+  "stockName": "MUIPROP",
+  "stockId": "3913",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a96a"
+  },
+  "stockName": "MULPHA",
+  "stockId": "3905",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a96b"
+  },
+  "stockName": "MYCRON",
+  "stockId": "5087",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a96c"
+  },
+  "stockName": "MYEG",
+  "stockId": "0138",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a96d"
+  },
+  "stockName": "MYKRIS",
+  "stockId": "03010",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a96e"
+  },
+  "stockName": "MYNEWS",
+  "stockId": "5275",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a96f"
+  },
+  "stockName": "MYSCM",
+  "stockId": "0041",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a970"
+  },
+  "stockName": "N2N",
+  "stockId": "0108",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a971"
+  },
+  "stockName": "NADIBHD",
+  "stockId": "0206",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a972"
+  },
+  "stockName": "NAIM",
+  "stockId": "5073",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a973"
+  },
+  "stockName": "NATWIDE",
+  "stockId": "9806",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a974"
+  },
+  "stockName": "NESTLE",
+  "stockId": "4707",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a975"
+  },
+  "stockName": "NETX",
+  "stockId": "0020",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a976"
+  },
+  "stockName": "NEXGRAM",
+  "stockId": "0096",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a977"
+  },
+  "stockName": "NGGB",
+  "stockId": "7241",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a978"
+  },
+  "stockName": "NHFATT",
+  "stockId": "7060",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a979"
+  },
+  "stockName": "NICE",
+  "stockId": "7139",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a97a"
+  },
+  "stockName": "NIHSIN",
+  "stockId": "7215",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a97b"
+  },
+  "stockName": "NOTION",
+  "stockId": "0083",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a97c"
+  },
+  "stockName": "NOVA",
+  "stockId": "0201",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a97d"
+  },
+  "stockName": "NOVAMSC",
+  "stockId": "0026",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a97e"
+  },
+  "stockName": "NPC",
+  "stockId": "5047",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a97f"
+  },
+  "stockName": "NPS",
+  "stockId": "03006",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a980"
+  },
+  "stockName": "NSOP",
+  "stockId": "2038",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a981"
+  },
+  "stockName": "NTPM",
+  "stockId": "5066",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a982"
+  },
+  "stockName": "NWP",
+  "stockId": "5025",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a983"
+  },
+  "stockName": "NYLEX",
+  "stockId": "4944",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a984"
+  },
+  "stockName": "OCB",
+  "stockId": "5533",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a985"
+  },
+  "stockName": "OCK",
+  "stockId": "0172",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a986"
+  },
+  "stockName": "OCNCASH",
+  "stockId": "0049",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a987"
+  },
+  "stockName": "OCR",
+  "stockId": "7071",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a988"
+  },
+  "stockName": "OFI",
+  "stockId": "7107",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a989"
+  },
+  "stockName": "OIB",
+  "stockId": "5827",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a98a"
+  },
+  "stockName": "OKA",
+  "stockId": "7140",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a98b"
+  },
+  "stockName": "OLYMPIA",
+  "stockId": "3018",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a98c"
+  },
+  "stockName": "OMESTI",
+  "stockId": "9008",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a98d"
+  },
+  "stockName": "OPCOM",
+  "stockId": "0035",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a98e"
+  },
+  "stockName": "OPENSYS",
+  "stockId": "0040",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a98f"
+  },
+  "stockName": "ORIENT",
+  "stockId": "4006",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a990"
+  },
+  "stockName": "ORION",
+  "stockId": "0079",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a991"
+  },
+  "stockName": "ORNA",
+  "stockId": "5065",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a992"
+  },
+  "stockName": "OSK",
+  "stockId": "5053",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a993"
+  },
+  "stockName": "OSKVI",
+  "stockId": "0053",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a994"
+  },
+  "stockName": "OVERSEA",
+  "stockId": "0153",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd7af2085236481a995"
+  },
+  "stockName": "OWG",
+  "stockId": "5260",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a996"
+  },
+  "stockName": "P&O",
+  "stockId": "6009",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a997"
+  },
+  "stockName": "PA",
+  "stockId": "7225",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a998"
+  },
+  "stockName": "PADINI",
+  "stockId": "7052",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a999"
+  },
+  "stockName": "PANAMY",
+  "stockId": "3719",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a99a"
+  },
+  "stockName": "PANSAR",
+  "stockId": "8419",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a99b"
+  },
+  "stockName": "PANTECH",
+  "stockId": "5125",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a99c"
+  },
+  "stockName": "PAOS",
+  "stockId": "5022",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a99d"
+  },
+  "stockName": "PARAGON",
+  "stockId": "9407",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a99e"
+  },
+  "stockName": "PARAMON",
+  "stockId": "1724",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a99f"
+  },
+  "stockName": "PARKSON",
+  "stockId": "5657",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9a0"
+  },
+  "stockName": "PARLO",
+  "stockId": "0022",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9a1"
+  },
+  "stockName": "PASDEC",
+  "stockId": "6912",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9a2"
+  },
+  "stockName": "PASUKGB",
+  "stockId": "0177",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9a3"
+  },
+  "stockName": "PAVREIT",
+  "stockId": "5212",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9a4"
+  },
+  "stockName": "PBA",
+  "stockId": "5041",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9a5"
+  },
+  "stockName": "PBBANK",
+  "stockId": "1295",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9a6"
+  },
+  "stockName": "PCCS",
+  "stockId": "6068",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9a7"
+  },
+  "stockName": "PCHEM",
+  "stockId": "5183",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9a8"
+  },
+  "stockName": "PDZ",
+  "stockId": "6254",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9a9"
+  },
+  "stockName": "PEB",
+  "stockId": "5622",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9aa"
+  },
+  "stockName": "PECCA",
+  "stockId": "5271",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ab"
+  },
+  "stockName": "PELIKAN",
+  "stockId": "5231",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ac"
+  },
+  "stockName": "PENERGY",
+  "stockId": "5133",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ad"
+  },
+  "stockName": "PENSONI",
+  "stockId": "9997",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ae"
+  },
+  "stockName": "PENTA",
+  "stockId": "7160",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9af"
+  },
+  "stockName": "PERDANA",
+  "stockId": "7108",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9b0"
+  },
+  "stockName": "PERMAJU",
+  "stockId": "7080",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9b1"
+  },
+  "stockName": "PERSTIM",
+  "stockId": "5436",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9b2"
+  },
+  "stockName": "PESONA",
+  "stockId": "8311",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9b3"
+  },
+  "stockName": "PESTECH",
+  "stockId": "5219",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9b4"
+  },
+  "stockName": "PETDAG",
+  "stockId": "5681",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9b5"
+  },
+  "stockName": "PETGAS",
+  "stockId": "6033",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9b6"
+  },
+  "stockName": "PETRONM",
+  "stockId": "3042",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9b7"
+  },
+  "stockName": "PGLOBE",
+  "stockId": "3611",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9b8"
+  },
+  "stockName": "PHARMA",
+  "stockId": "7081",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9b9"
+  },
+  "stockName": "PHB",
+  "stockId": "4464",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ba"
+  },
+  "stockName": "PICORP",
+  "stockId": "7201",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9bb"
+  },
+  "stockName": "PIE",
+  "stockId": "7095",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9bc"
+  },
+  "stockName": "PINEAPP",
+  "stockId": "0006",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9bd"
+  },
+  "stockName": "PINEPAC",
+  "stockId": "1902",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9be"
+  },
+  "stockName": "PJBUMI",
+  "stockId": "7163",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9bf"
+  },
+  "stockName": "PLABS",
+  "stockId": "0171",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9c0"
+  },
+  "stockName": "PLB",
+  "stockId": "7055",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9c1"
+  },
+  "stockName": "PLENITU",
+  "stockId": "5075",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9c2"
+  },
+  "stockName": "PLS",
+  "stockId": "9695",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9c3"
+  },
+  "stockName": "PMBTECH",
+  "stockId": "7172",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9c4"
+  },
+  "stockName": "PMCORP",
+  "stockId": "4081",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9c5"
+  },
+  "stockName": "PMETAL",
+  "stockId": "8869",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9c6"
+  },
+  "stockName": "PMHLDG",
+  "stockId": "1287",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9c7"
+  },
+  "stockName": "PNEPCB",
+  "stockId": "6637",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9c8"
+  },
+  "stockName": "POHKONG",
+  "stockId": "5080",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9c9"
+  },
+  "stockName": "POHUAT",
+  "stockId": "7088",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ca"
+  },
+  "stockName": "POLY",
+  "stockId": "8117",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9cb"
+  },
+  "stockName": "POLYMER",
+  "stockId": "03007",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9cc"
+  },
+  "stockName": "POS",
+  "stockId": "4634",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9cd"
+  },
+  "stockName": "PPB",
+  "stockId": "4065",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ce"
+  },
+  "stockName": "PPG",
+  "stockId": "7190",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9cf"
+  },
+  "stockName": "PPHB",
+  "stockId": "8273",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9d0"
+  },
+  "stockName": "PRESBHD",
+  "stockId": "5204",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9d1"
+  },
+  "stockName": "PRESTAR",
+  "stockId": "9873",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9d2"
+  },
+  "stockName": "PRG",
+  "stockId": "7168",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9d3"
+  },
+  "stockName": "PRIVA",
+  "stockId": "0123",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9d4"
+  },
+  "stockName": "PRKCORP",
+  "stockId": "8346",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9d5"
+  },
+  "stockName": "PRLEXUS",
+  "stockId": "8966",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9d6"
+  },
+  "stockName": "PRTASCO",
+  "stockId": "5070",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9d7"
+  },
+  "stockName": "PTARAS",
+  "stockId": "9598",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9d8"
+  },
+  "stockName": "PTB",
+  "stockId": "0038",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9d9"
+  },
+  "stockName": "PTRANS",
+  "stockId": "0186",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9da"
+  },
+  "stockName": "PUC",
+  "stockId": "0007",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9db"
+  },
+  "stockName": "PUNCAK",
+  "stockId": "6807",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9dc"
+  },
+  "stockName": "PWF",
+  "stockId": "7134",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9dd"
+  },
+  "stockName": "PWORTH",
+  "stockId": "7123",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9de"
+  },
+  "stockName": "PWROOT",
+  "stockId": "7237",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9df"
+  },
+  "stockName": "PWRWELL",
+  "stockId": "0217",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9e0"
+  },
+  "stockName": "QES",
+  "stockId": "0196",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9e1"
+  },
+  "stockName": "QL",
+  "stockId": "7084",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9e2"
+  },
+  "stockName": "QUALITY",
+  "stockId": "7544",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9e3"
+  },
+  "stockName": "RALCO",
+  "stockId": "7498",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9e4"
+  },
+  "stockName": "RANHILL",
+  "stockId": "5272",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9e5"
+  },
+  "stockName": "RAPID",
+  "stockId": "7765",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9e6"
+  },
+  "stockName": "RCECAP",
+  "stockId": "9296",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9e7"
+  },
+  "stockName": "REACH",
+  "stockId": "5256",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9e8"
+  },
+  "stockName": "REDIDEA",
+  "stockId": "03002",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9e9"
+  },
+  "stockName": "REDTONE",
+  "stockId": "0032",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ea"
+  },
+  "stockName": "RESINTC",
+  "stockId": "7232",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9eb"
+  },
+  "stockName": "REV",
+  "stockId": "0173",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ec"
+  },
+  "stockName": "REVENUE",
+  "stockId": "0200",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ed"
+  },
+  "stockName": "REX",
+  "stockId": "9946",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ee"
+  },
+  "stockName": "REXIT",
+  "stockId": "0106",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ef"
+  },
+  "stockName": "RGB",
+  "stockId": "0037",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9f0"
+  },
+  "stockName": "RGTBHD",
+  "stockId": "9954",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9f1"
+  },
+  "stockName": "RGTECH",
+  "stockId": "0202",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9f2"
+  },
+  "stockName": "RHBBANK",
+  "stockId": "1066",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9f3"
+  },
+  "stockName": "RHONEMA",
+  "stockId": "5278",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9f4"
+  },
+  "stockName": "ROHAS",
+  "stockId": "9741",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9f5"
+  },
+  "stockName": "RSAWIT",
+  "stockId": "5113",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9f6"
+  },
+  "stockName": "RSENA",
+  "stockId": "5270",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9f7"
+  },
+  "stockName": "RUBEREX",
+  "stockId": "7803",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9f8"
+  },
+  "stockName": "RVIEW",
+  "stockId": "2542",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9f9"
+  },
+  "stockName": "SAB",
+  "stockId": "5134",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9fa"
+  },
+  "stockName": "SALCON",
+  "stockId": "8567",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9fb"
+  },
+  "stockName": "SALUTE",
+  "stockId": "0183",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9fc"
+  },
+  "stockName": "SAM",
+  "stockId": "9822",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9fd"
+  },
+  "stockName": "SAMCHEM",
+  "stockId": "5147",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9fe"
+  },
+  "stockName": "SANICHI",
+  "stockId": "0133",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481a9ff"
+  },
+  "stockName": "SAPIND",
+  "stockId": "7811",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa00"
+  },
+  "stockName": "SAPNRG",
+  "stockId": "5218",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa01"
+  },
+  "stockName": "SAPRES",
+  "stockId": "4596",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa02"
+  },
+  "stockName": "SASBADI",
+  "stockId": "5252",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa03"
+  },
+  "stockName": "SAUDEE",
+  "stockId": "5157",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa04"
+  },
+  "stockName": "SBAGAN",
+  "stockId": "2569",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa05"
+  },
+  "stockName": "SBCCORP",
+  "stockId": "5207",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa06"
+  },
+  "stockName": "SCABLE",
+  "stockId": "5170",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa07"
+  },
+  "stockName": "SCBUILD",
+  "stockId": "0109",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa08"
+  },
+  "stockName": "SCC",
+  "stockId": "0158",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa09"
+  },
+  "stockName": "SCGM",
+  "stockId": "7247",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa0a"
+  },
+  "stockName": "SCH",
+  "stockId": "0161",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa0b"
+  },
+  "stockName": "SCIB",
+  "stockId": "9237",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa0c"
+  },
+  "stockName": "SCICOM",
+  "stockId": "0099",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa0d"
+  },
+  "stockName": "SCIENTX",
+  "stockId": "4731",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa0e"
+  },
+  "stockName": "SCNWOLF",
+  "stockId": "7239",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa0f"
+  },
+  "stockName": "SCOMI",
+  "stockId": "7158",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa10"
+  },
+  "stockName": "SCOMIES",
+  "stockId": "7045",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa11"
+  },
+  "stockName": "SCOMNET",
+  "stockId": "0001",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa12"
+  },
+  "stockName": "SCOPE",
+  "stockId": "0028",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa13"
+  },
+  "stockName": "SDRED",
+  "stockId": "2224",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa14"
+  },
+  "stockName": "SDS",
+  "stockId": "0212",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa15"
+  },
+  "stockName": "SEACERA",
+  "stockId": "7073",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa16"
+  },
+  "stockName": "SEAL",
+  "stockId": "4286",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa17"
+  },
+  "stockName": "SEALINK",
+  "stockId": "5145",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa18"
+  },
+  "stockName": "SEB",
+  "stockId": "5163",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa19"
+  },
+  "stockName": "SEDANIA",
+  "stockId": "0178",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa1a"
+  },
+  "stockName": "SEEHUP",
+  "stockId": "7053",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa1b"
+  },
+  "stockName": "SEERS",
+  "stockId": "03009",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa1c"
+  },
+  "stockName": "SEG",
+  "stockId": "9792",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa1d"
+  },
+  "stockName": "SEM",
+  "stockId": "5250",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa1e"
+  },
+  "stockName": "SENDAI",
+  "stockId": "5205",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa1f"
+  },
+  "stockName": "SERBADK",
+  "stockId": "5279",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa20"
+  },
+  "stockName": "SERNKOU",
+  "stockId": "7180",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa21"
+  },
+  "stockName": "SERSOL",
+  "stockId": "0055",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa22"
+  },
+  "stockName": "SGBHD",
+  "stockId": "03033",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa23"
+  },
+  "stockName": "SHANG",
+  "stockId": "5517",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa24"
+  },
+  "stockName": "SHCHAN",
+  "stockId": "4316",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa25"
+  },
+  "stockName": "SHH",
+  "stockId": "7412",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa26"
+  },
+  "stockName": "SHL",
+  "stockId": "6017",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa27"
+  },
+  "stockName": "SIGGAS",
+  "stockId": "5181",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa28"
+  },
+  "stockName": "SIGN",
+  "stockId": "7246",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa29"
+  },
+  "stockName": "SIME",
+  "stockId": "4197",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa2a"
+  },
+  "stockName": "SIMEPLT",
+  "stockId": "5285",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa2b"
+  },
+  "stockName": "SIMEPROP",
+  "stockId": "5288",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa2c"
+  },
+  "stockName": "SINOTOP",
+  "stockId": "8532",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa2d"
+  },
+  "stockName": "SJC",
+  "stockId": "9431",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa2e"
+  },
+  "stockName": "SKBSHUT",
+  "stockId": "7115",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa2f"
+  },
+  "stockName": "SKPRES",
+  "stockId": "7155",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa30"
+  },
+  "stockName": "SLIC",
+  "stockId": "03008",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa31"
+  },
+  "stockName": "SLP",
+  "stockId": "7248",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa32"
+  },
+  "stockName": "SLVEST",
+  "stockId": "0215",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa33"
+  },
+  "stockName": "SMCAP",
+  "stockId": "9776",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa34"
+  },
+  "stockName": "SMETRIC",
+  "stockId": "0203",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa35"
+  },
+  "stockName": "SMI",
+  "stockId": "4375",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa36"
+  },
+  "stockName": "SMILE",
+  "stockId": "03023",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa37"
+  },
+  "stockName": "SMISCOR",
+  "stockId": "7132",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa38"
+  },
+  "stockName": "SMRT",
+  "stockId": "0117",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa39"
+  },
+  "stockName": "SMTRACK",
+  "stockId": "0169",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa3a"
+  },
+  "stockName": "SNC",
+  "stockId": "7943",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa3b"
+  },
+  "stockName": "SNTORIA",
+  "stockId": "5213",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa3c"
+  },
+  "stockName": "SOLID",
+  "stockId": "5242",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa3d"
+  },
+  "stockName": "SOLUTN",
+  "stockId": "0093",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa3e"
+  },
+  "stockName": "SOP",
+  "stockId": "5126",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa3f"
+  },
+  "stockName": "SPRING",
+  "stockId": "0216",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa40"
+  },
+  "stockName": "SPRITZER",
+  "stockId": "7103",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa41"
+  },
+  "stockName": "SPSETIA",
+  "stockId": "8664",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa42"
+  },
+  "stockName": "SRIDGE",
+  "stockId": "0129",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa43"
+  },
+  "stockName": "SSTEEL",
+  "stockId": "5665",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa44"
+  },
+  "stockName": "STAR",
+  "stockId": "6084",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa45"
+  },
+  "stockName": "STELLA",
+  "stockId": "5006",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa46"
+  },
+  "stockName": "STRAITS",
+  "stockId": "0080",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa47"
+  },
+  "stockName": "SUBUR",
+  "stockId": "6904",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa48"
+  },
+  "stockName": "SUCCESS",
+  "stockId": "7207",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa49"
+  },
+  "stockName": "SUMATEC",
+  "stockId": "1201",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa4a"
+  },
+  "stockName": "SUNCON",
+  "stockId": "5263",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa4b"
+  },
+  "stockName": "SUNREIT",
+  "stockId": "5176",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa4c"
+  },
+  "stockName": "SUNSURIA",
+  "stockId": "3743",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa4d"
+  },
+  "stockName": "SUNWAY",
+  "stockId": "5211",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa4e"
+  },
+  "stockName": "SUNZEN",
+  "stockId": "0148",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa4f"
+  },
+  "stockName": "SUPERLN",
+  "stockId": "7235",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa50"
+  },
+  "stockName": "SUPERMX",
+  "stockId": "7106",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa51"
+  },
+  "stockName": "SUPREME",
+  "stockId": "03018",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa52"
+  },
+  "stockName": "SURIA",
+  "stockId": "6521",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa53"
+  },
+  "stockName": "SWKPLNT",
+  "stockId": "5135",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa54"
+  },
+  "stockName": "SWSCAP",
+  "stockId": "7186",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa55"
+  },
+  "stockName": "SYCAL",
+  "stockId": "9717",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa56"
+  },
+  "stockName": "SYF",
+  "stockId": "7082",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa57"
+  },
+  "stockName": "SYMLIFE",
+  "stockId": "1538",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa58"
+  },
+  "stockName": "SYSCORP",
+  "stockId": "5173",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa59"
+  },
+  "stockName": "SYSTECH",
+  "stockId": "0050",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa5a"
+  },
+  "stockName": "T7GLOBAL",
+  "stockId": "7228",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa5b"
+  },
+  "stockName": "TA",
+  "stockId": "4898",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa5c"
+  },
+  "stockName": "TAANN",
+  "stockId": "5012",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa5d"
+  },
+  "stockName": "TADMAX",
+  "stockId": "4022",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa5e"
+  },
+  "stockName": "TAFI",
+  "stockId": "7211",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa5f"
+  },
+  "stockName": "TAGB",
+  "stockId": "5158",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa60"
+  },
+  "stockName": "TAKAFUL",
+  "stockId": "6139",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa61"
+  },
+  "stockName": "TALAMT",
+  "stockId": "2259",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa62"
+  },
+  "stockName": "TALIWRK",
+  "stockId": "8524",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa63"
+  },
+  "stockName": "TAMBUN",
+  "stockId": "5191",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa64"
+  },
+  "stockName": "TANCO",
+  "stockId": "2429",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa65"
+  },
+  "stockName": "TAS",
+  "stockId": "5149",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa66"
+  },
+  "stockName": "TASCO",
+  "stockId": "5140",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa67"
+  },
+  "stockName": "TASEK",
+  "stockId": "4448",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa68"
+  },
+  "stockName": "TASHIN",
+  "stockId": "0211",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa69"
+  },
+  "stockName": "TAWIN",
+  "stockId": "7097",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa6a"
+  },
+  "stockName": "TCHONG",
+  "stockId": "4405",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa6b"
+  },
+  "stockName": "TDEX",
+  "stockId": "0132",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa6c"
+  },
+  "stockName": "TDM",
+  "stockId": "2054",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa6d"
+  },
+  "stockName": "TECFAST",
+  "stockId": "0084",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa6e"
+  },
+  "stockName": "TECGUAN",
+  "stockId": "7439",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa6f"
+  },
+  "stockName": "TECHBND",
+  "stockId": "5289",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa70"
+  },
+  "stockName": "TEKSENG",
+  "stockId": "7200",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa71"
+  },
+  "stockName": "TENAGA",
+  "stockId": "5347",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa72"
+  },
+  "stockName": "TEOSENG",
+  "stockId": "7252",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa73"
+  },
+  "stockName": "TEXCHEM",
+  "stockId": "8702",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa74"
+  },
+  "stockName": "TEXCYCL",
+  "stockId": "0089",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa75"
+  },
+  "stockName": "TFP",
+  "stockId": "0145",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa76"
+  },
+  "stockName": "TGL",
+  "stockId": "9369",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa77"
+  },
+  "stockName": "TGUAN",
+  "stockId": "7034",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa78"
+  },
+  "stockName": "THETA",
+  "stockId": "9075",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa79"
+  },
+  "stockName": "THHEAVY",
+  "stockId": "7206",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa7a"
+  },
+  "stockName": "THPLANT",
+  "stockId": "5112",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa7b"
+  },
+  "stockName": "THRIVEN",
+  "stockId": "7889",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa7c"
+  },
+  "stockName": "TIENWAH",
+  "stockId": "7374",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa7d"
+  },
+  "stockName": "TIGER",
+  "stockId": "7079",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa7e"
+  },
+  "stockName": "TIMECOM",
+  "stockId": "5031",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa7f"
+  },
+  "stockName": "TIMWELL",
+  "stockId": "7854",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa80"
+  },
+  "stockName": "TITIJYA",
+  "stockId": "5239",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa81"
+  },
+  "stockName": "TM",
+  "stockId": "4863",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa82"
+  },
+  "stockName": "TMCLIFE",
+  "stockId": "0101",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa83"
+  },
+  "stockName": "TNLOGIS",
+  "stockId": "8397",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa84"
+  },
+  "stockName": "TOCEAN",
+  "stockId": "7218",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa85"
+  },
+  "stockName": "TOMEI",
+  "stockId": "7230",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa86"
+  },
+  "stockName": "TOMYPAK",
+  "stockId": "7285",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa87"
+  },
+  "stockName": "TONGHER",
+  "stockId": "5010",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa88"
+  },
+  "stockName": "TOPGLOV",
+  "stockId": "7113",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa89"
+  },
+  "stockName": "TOPVISN",
+  "stockId": "03013",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa8a"
+  },
+  "stockName": "TOYOINK",
+  "stockId": "7173",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa8b"
+  },
+  "stockName": "TPC",
+  "stockId": "7176",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa8c"
+  },
+  "stockName": "TRC",
+  "stockId": "5054",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa8d"
+  },
+  "stockName": "TRIMODE",
+  "stockId": "0199",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa8e"
+  },
+  "stockName": "TRIVE",
+  "stockId": "0118",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa8f"
+  },
+  "stockName": "TROP",
+  "stockId": "5401",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa90"
+  },
+  "stockName": "TSH",
+  "stockId": "9059",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa91"
+  },
+  "stockName": "TSRCAP",
+  "stockId": "5042",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa92"
+  },
+  "stockName": "TTV",
+  "stockId": "03020",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa93"
+  },
+  "stockName": "TUNEPRO",
+  "stockId": "5230",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa94"
+  },
+  "stockName": "TURBO",
+  "stockId": "5167",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa95"
+  },
+  "stockName": "TURIYA",
+  "stockId": "4359",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa96"
+  },
+  "stockName": "TWRREIT",
+  "stockId": "5111",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa97"
+  },
+  "stockName": "UCHITEC",
+  "stockId": "7100",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa98"
+  },
+  "stockName": "UCREST",
+  "stockId": "0005",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa99"
+  },
+  "stockName": "UEMS",
+  "stockId": "5148",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa9a"
+  },
+  "stockName": "ULICORP",
+  "stockId": "7133",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa9b"
+  },
+  "stockName": "UMCCA",
+  "stockId": "2593",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa9c"
+  },
+  "stockName": "UMS",
+  "stockId": "7137",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa9d"
+  },
+  "stockName": "UMSNGB",
+  "stockId": "7227",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa9e"
+  },
+  "stockName": "UMW",
+  "stockId": "4588",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aa9f"
+  },
+  "stockName": "UNIMECH",
+  "stockId": "7091",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aaa0"
+  },
+  "stockName": "UNISEM",
+  "stockId": "5005",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aaa1"
+  },
+  "stockName": "UNIWALL",
+  "stockId": "03017",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aaa2"
+  },
+  "stockName": "UOADEV",
+  "stockId": "5200",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aaa3"
+  },
+  "stockName": "UOAREIT",
+  "stockId": "5110",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aaa4"
+  },
+  "stockName": "UPA",
+  "stockId": "7757",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aaa5"
+  },
+  "stockName": "UTDPLT",
+  "stockId": "2089",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aaa6"
+  },
+  "stockName": "UWC",
+  "stockId": "5292",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd8af2085236481aaa7"
+  },
+  "stockName": "UZMA",
+  "stockId": "7250",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aaa8"
+  },
+  "stockName": "VC",
+  "stockId": "0060",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aaa9"
+  },
+  "stockName": "VELESTO",
+  "stockId": "5243",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aaaa"
+  },
+  "stockName": "VERSATL",
+  "stockId": "4995",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aaab"
+  },
+  "stockName": "VERTICE",
+  "stockId": "7240",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aaac"
+  },
+  "stockName": "VIS",
+  "stockId": "0120",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aaad"
+  },
+  "stockName": "VITROX",
+  "stockId": "0097",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aaae"
+  },
+  "stockName": "VIVOCOM",
+  "stockId": "0069",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aaaf"
+  },
+  "stockName": "VIZIONE",
+  "stockId": "7070",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aab0"
+  },
+  "stockName": "VS",
+  "stockId": "6963",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aab1"
+  },
+  "stockName": "VSOLAR",
+  "stockId": "0066",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aab2"
+  },
+  "stockName": "VSTECS",
+  "stockId": "5162",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aab3"
+  },
+  "stockName": "WANGZNG",
+  "stockId": "7203",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aab4"
+  },
+  "stockName": "WARISAN",
+  "stockId": "5016",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aab5"
+  },
+  "stockName": "WASEONG",
+  "stockId": "5142",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aab6"
+  },
+  "stockName": "WATTA",
+  "stockId": "7226",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aab7"
+  },
+  "stockName": "WCEHB",
+  "stockId": "3565",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aab8"
+  },
+  "stockName": "WCT",
+  "stockId": "9679",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aab9"
+  },
+  "stockName": "WEGMANS",
+  "stockId": "0197",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aaba"
+  },
+  "stockName": "WELLCAL",
+  "stockId": "7231",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aabb"
+  },
+  "stockName": "WIDAD",
+  "stockId": "0162",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aabc"
+  },
+  "stockName": "WIDETEC",
+  "stockId": "7692",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aabd"
+  },
+  "stockName": "WILLOW",
+  "stockId": "0008",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aabe"
+  },
+  "stockName": "WINTONI",
+  "stockId": "0141",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aabf"
+  },
+  "stockName": "WMG",
+  "stockId": "6378",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aac0"
+  },
+  "stockName": "WONG",
+  "stockId": "7050",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aac1"
+  },
+  "stockName": "WOODLAN",
+  "stockId": "7025",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aac2"
+  },
+  "stockName": "WPRTS",
+  "stockId": "5246",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aac3"
+  },
+  "stockName": "WTHORSE",
+  "stockId": "5009",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aac4"
+  },
+  "stockName": "WTK",
+  "stockId": "4243",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aac5"
+  },
+  "stockName": "WZSATU",
+  "stockId": "7245",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aac6"
+  },
+  "stockName": "XDL",
+  "stockId": "5156",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aac7"
+  },
+  "stockName": "XIANLNG",
+  "stockId": "7121",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aac8"
+  },
+  "stockName": "XINGHE",
+  "stockId": "0095",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aac9"
+  },
+  "stockName": "XINHWA",
+  "stockId": "5267",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aaca"
+  },
+  "stockName": "XOX",
+  "stockId": "0165",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aacb"
+  },
+  "stockName": "Y&G",
+  "stockId": "7003",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aacc"
+  },
+  "stockName": "YBS",
+  "stockId": "0025",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aacd"
+  },
+  "stockName": "YEELEE",
+  "stockId": "5584",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aace"
+  },
+  "stockName": "YGL",
+  "stockId": "0086",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aacf"
+  },
+  "stockName": "YILAI",
+  "stockId": "5048",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aad0"
+  },
+  "stockName": "YINSON",
+  "stockId": "7293",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aad1"
+  },
+  "stockName": "YKGI",
+  "stockId": "7020",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aad2"
+  },
+  "stockName": "YLI",
+  "stockId": "7014",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aad3"
+  },
+  "stockName": "YNHPROP",
+  "stockId": "3158",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aad4"
+  },
+  "stockName": "YOCB",
+  "stockId": "5159",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aad5"
+  },
+  "stockName": "YONGTAI",
+  "stockId": "7066",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aad6"
+  },
+  "stockName": "YSPSAH",
+  "stockId": "7178",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aad7"
+  },
+  "stockName": "YTL",
+  "stockId": "4677",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aad8"
+  },
+  "stockName": "YTLPOWR",
+  "stockId": "6742",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aad9"
+  },
+  "stockName": "YTLREIT",
+  "stockId": "5109",
+  "yahoo_data_exist": "Yes",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aada"
+  },
+  "stockName": "ZECON",
+  "stockId": "7028",
+  "yahoo_data_exist": "No",
+  "class_model": "Yes"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aadb"
+  },
+  "stockName": "ZELAN",
+  "stockId": "2283",
+  "yahoo_data_exist": "No",
+  "class_model": "No"
+},{
+  "_id": {
+    "$oid": "5e6f7bd9af2085236481aadc"
+  },
+  "stockName": "ZHULIAN",
+  "stockId": "5131",
+  "yahoo_data_exist": "Yes",
+  "class_model": "Yes"
+}]
